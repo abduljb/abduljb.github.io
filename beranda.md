@@ -1,9 +1,8 @@
-title: Beranda
----
+
 
 # Beranda
 
-Tes 1 2 3
+Tes 1 2 3 [Link](https://google.com)
 
 **Tebal** *Miring*
 
@@ -14,3 +13,5 @@ Tes 1 2 3
 
 + Bulet 1
 + Bulet 2
+
+
